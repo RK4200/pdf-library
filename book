@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>আমার বইয়ের ওয়েবসাইট</title>
+</head>
+<body>
+  <h1>📚 মস্তিষ্কের দোকান</h1>
+  <h2>বই: King Solomon’s Mines</h2>
+  <a href="https://www.gutenberg.org/ebooks/2166" target="_blank">📖 অনলাইনে পড়ুন</a><br>
+  <a href="https://www.gutenberg.org/files/2166/2166-h/2166-h.htm" target="_blank">⬇️ ডাউনলোড করুন</a>
+</body>
+</html>
